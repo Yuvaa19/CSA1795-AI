@@ -102,3 +102,10 @@ final = [ [ 1, 2, 3 ],
 
 empty_tile_pos = [ 1, 2 ]
 solve(initial, empty_tile_pos, final)
+
+
+
+
+
+
+# eop
